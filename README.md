@@ -10,4 +10,4 @@ Repository for personal CIS350 assignments
 ## Technical Background
 I have experience in using many different programming languages and I also have experience in programming web applications and mobile applications. I have used GitHub plenty of times for my college courses and for personal projects. While I have plenty of experience in a variety of programming, all of my experience is only from university and I wish to gain industry experience. 
 
-![War Thunder Military Document Leak meme](https://i.redd.it/meme-of-the-day-war-thunder-military-document-leaks-v0-bt89qgw5phlb1.jpg?s=e42a0ef530de679e788a918bf4cb90deb028f4f6)
+![Meme](https://i.kym-cdn.com/photos/images/original/002/659/761/ed2.jpg)
